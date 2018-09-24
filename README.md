@@ -11,4 +11,3 @@
   * MacOS   [ [Video](https://www.youtube.com/watch?v=oyzH4M6X6F4) ]
 * PyCharm IDE Quick Start Guide [ [View](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) ]
 
-* Reference Books
