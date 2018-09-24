@@ -4,4 +4,4 @@
 * **Python 3 & PyCharm** Installation Guide
   * Windows [ [Video](https://www.youtube.com/watch?v=puBXxzcWJIQ) ] 
   * MacOS   [ [Video](https://www.youtube.com/watch?v=oyzH4M6X6F4) ]
-* PyCharm IDE Quick Start Guide [ [view](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) ]
+* PyCharm IDE Quick Start Guide [ [View](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) ]
