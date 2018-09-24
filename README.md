@@ -1,8 +1,8 @@
 # SJSU MSDA Python Tutorial
 ### Textbook 
- * Think Python 2 PDF [ [Download](http://greenteapress.com/thinkpython2/thinkpython2.pdf) ]
-#### Reference
- * Learn Phttps://program.bruintech.org/wp-content/uploads/2018/01/learn-python3-the-hard-way-jul-4-2017.pdf
+* Think Python 2 [ [PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf) ]
+### Reference
+* Learn Python3 the Hard Way [[PDF](https://program.bruintech.org/wp-content/uploads/2018/01/learn-python3-the-hard-way-jul-4-2017.pdf)]
 ### Installation Guide
 * Python 3 Installation Guide [ [View](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html) ]
 * **Python 3 & PyCharm** Installation Guide
