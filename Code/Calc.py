@@ -24,7 +24,8 @@ def disk_area(radius):
 a = int(input("Please enter the first number: "))
 b = int(input("Please enter the first number: "))
 print("The result of adding", a, "with", b, "is", add(a,b))
-print("The result of dividing", a, "by", b, "is", divide(a,b))
+print("The result of dividing", a, "by", b, "is", '{:.2f}'.format(divide(a,b)) )
 
 ## demo: calculate disk area
-print(disk_area(float(input("Please input radius: "))))
+c = float(input("Please input radius: "))
+print('{:.3f}'.format(disk_area(c)))
