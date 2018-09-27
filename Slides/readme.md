@@ -1,1 +1,1 @@
-Slides are here
+# Schedule for Python Tutorial
