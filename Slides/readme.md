@@ -1,7 +1,7 @@
 # Schedule for Python Tutorial
 
-|Date	|Goal	|Contents	|Chapter
-|9/22	|Topic	|Calculator Design	|[1] ch2, 3, 6
+|Date	|Goal	|Contents	|Chapter|
+|9/22	|Topic	|Calculator Design	|[1] ch2, 3, 6|
 	|Contents	Functions: add, subtract, multiply, divide, print 
 |Types: int and float and string	
 |9/29	Topic	Area, Volume, Fibonacci calculation	
