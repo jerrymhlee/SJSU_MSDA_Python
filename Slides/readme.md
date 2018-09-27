@@ -1,12 +1,12 @@
 # Schedule for Python Tutorial
 
-Date	Goal	Contents	Chapter
-9/22	Topic	Calculator Design	[1] ch2, 3, 6
-	Contents	Functions: add, subtract, multiply, divide, print 
-Types: int and float and string	
-9/29	Topic	Area, Volume, Fibonacci calculation	
+|Date	|Goal	|Contents	|Chapter
+|9/22	|Topic	|Calculator Design	|[1] ch2, 3, 6
+	|Contents	Functions: add, subtract, multiply, divide, print 
+|Types: int and float and string	
+|9/29	Topic	Area, Volume, Fibonacci calculation	
 	Contents	Input, conditionals, function return values; Recursion	
-10/6	Topic	Phone book and contacts design	
+|10/6	Topic	Phone book and contacts design	
 	Contents	Dictionaries operation
 Loops: continuous input; print out all
 Conditions: input data validate
