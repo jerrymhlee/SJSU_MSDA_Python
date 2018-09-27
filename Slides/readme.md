@@ -1,7 +1,7 @@
 # Schedule for Python Tutorial
 
 ## Slides
-Please download slides [ [here](https://drive.google.com/drive/folders/1OzEq6Wt61vZHbAISLcojl9q5SR4zIld7?usp=sharing) ]
+Please download slides from [ [Google Drive](https://drive.google.com/drive/folders/1OzEq6Wt61vZHbAISLcojl9q5SR4zIld7?usp=sharing) ]
 
 ## Schedule
 9/22 Calculator Design, Functions
