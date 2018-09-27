@@ -6,5 +6,4 @@ Please download slides [ [here](https://drive.google.com/drive/folders/1OzEq6Wt6
 ## Schedule
 9/22	Calculator Design	
 	
-9/29	Topic	Area, Volume, Fibonacci calculation	
-	Contents	Input, conditionals, function return values; Recursion	
+9/29	String, List, Condition, Loops	
