@@ -1,5 +1,5 @@
 # SJSU MSDA Python Tutorial
-# 10/13 Classroom @ SC113
+# Classroom @ SC113
 
 ### Textbook 
 * Think Python 2 [ [PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf) ]
